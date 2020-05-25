@@ -1,5 +1,5 @@
-<img src="https://github.com/AmnesiaLabs/zen-client/blob/master/build/icons/24x24.png?raw=true" align="right">
 <h1>Zen</h1>
+<img src="https://github.com/AmnesiaLabs/zen-client/blob/master/build/icons/24x24.png?raw=true" align="right">
 
 An amnesic, cross-platform streaming client for Apple's iMessage™️
 
