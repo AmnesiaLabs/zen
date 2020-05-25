@@ -15,4 +15,4 @@ Coming soon! 🧪
 
 ## Donations
 
-If you'd like to support Zen's development and help accelerate the progress, bug fixes or feature add-ons, please feel free to donate [here via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alectrocute%40gmail.com&currency_code=USD&source=url) or via [Bitcoin](BITCOIN.md).
+If you'd like to support Zen's development and help accelerate the progress, bug fixes or feature add-ons, please feel free to donate [here via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alectrocute%40gmail.com&currency_code=USD&source=url) or BTC: `18mTfAgHzNkJe8dPcujMopcMnxPJd712TP`
