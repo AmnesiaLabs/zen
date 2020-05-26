@@ -17,4 +17,4 @@ In the meantime, hop in our [Discord community](https://discord.gg/vNdvmwX).
 
 ## Donations
 
-If you'd like to support Zen's development and help accelerate bug fixes, feature add-ons & more – please feel free to donate [here via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alectrocute%40gmail.com&currency_code=USD&source=url) or BTC: `18mTfAgHzNkJe8dPcujMopcMnxPJd712TP`
+If you'd like to help support Zen's development and accelerate progress, we're accepting donations [via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alectrocute%40gmail.com&currency_code=USD&source=url) or BTC `18mTfAgHzNkJe8dPcujMopcMnxPJd712TP`. Sponsors of any amount >= $5 USD/mo. will recieve higher priority support in Zen-related GitHub issues as appreciation for your continued support. Please make sure to send a note along with the donation including any associated usernames (especially if you're using BTC).
