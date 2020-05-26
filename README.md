@@ -13,6 +13,8 @@ An amnesic, cross-platform streaming client for Apple's iMessage™️
 
 Coming soon! 🧪
 
+In the meantime, hop in our [Discord community](https://discord.gg/vNdvmwX).
+
 ## Donations
 
 If you'd like to support Zen's development and help accelerate bug fixes, feature add-ons & more – please feel free to donate [here via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alectrocute%40gmail.com&currency_code=USD&source=url) or BTC: `18mTfAgHzNkJe8dPcujMopcMnxPJd712TP`
